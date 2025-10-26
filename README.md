@@ -22,7 +22,4 @@ Identified **5 customer segments** such as:
 - High Income – Low Spending
 - Low Income – High Spending
 - Average Income – Average Spending
-- Low Income – Low Spending
-
-## 💬 Interview Explanation
-> “I used K-Means clustering to segment customers based on their spending habits and income. After standardizing the data, the elbow method suggested 5 clusters. This helped identify high-value customers for loyalty programs and personalized marketing.”
+- Low Income – Low 
