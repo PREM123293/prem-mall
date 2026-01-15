@@ -22,4 +22,4 @@ Identified **5 customer segments** such as:
 - High Income – Low Spending
 - Low Income – High Spending
 - Average Income – Average Spending
-- Low Income – Low 
+
